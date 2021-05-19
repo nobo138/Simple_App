@@ -5,4 +5,4 @@
 + Login.
 + Hiển thị thông tin người dùng.
 + Sử dụng database SQLite và MySQL.
-+ Sử dụng ProGuard để rút gọn code và rối mã
++ Sử dụng ProGuard để rút gọn code và rối mã.
